@@ -1,1 +1,1 @@
-# automate_rescue
+# Automate Resume Rescue Emails
